@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 # Pushpendra Nagar - Portfolio Website
 
-[![Portfolio Preview]((https://pushpendra1nagar.github.io/my-portfolio-website/))
+[![Portfolio Preview](https://pushpendra1nagar.github.io/my-portfolio-website/)
 
 This repository contains the source code for my personal portfolio website, showcasing my academic journey, technical skills, and projects. Built with modern web technologies to demonstrate my capabilities as a Computer Science student and developer.
 
